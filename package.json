@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend for my sorry project - Sun* Education",
+  "author": "hoanganhd-1958",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.14",
+    "nuxt": "^2.0.0",
+    "vuejs-paginate": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
