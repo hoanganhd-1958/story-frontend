@@ -1,4 +1,4 @@
-const API = `http://localhost:8000/api/categories`
+const API = `http://52.163.230.242/api/categories`
 import axios from 'axios'
 
 export default {

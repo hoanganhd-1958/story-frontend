@@ -8,10 +8,7 @@
             >
                 <div class="recommed-book" itemscope itemtype="https://schema.org/Book">
                     <div class="book-img">
-                        <img
-                            class="lazy loaded"
-                            :src="'http://localhost:8000/' + story.cover_image"
-                        />
+                        <img class="lazy loaded" :src="'http://52.163.230.242' + story.cover_image" />
                     </div>
                     <div class="book-info">
                         <h4 itemprop="name">

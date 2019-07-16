@@ -50,7 +50,7 @@
 
             async getStoryName() {
                 var response = await this.axios.get(
-                    "http:://localhost/8000/api/stories/" +
+                    "http://52.163.230.242/api/stories/" +
                         this.$route.params.storyId
                 );
                 return response.data;

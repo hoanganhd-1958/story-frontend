@@ -1,4 +1,4 @@
-const API = `http://localhost:8000/api/chapters/`
+const API = `http://52.163.230.242/api/chapters/`
 import axios from 'axios'
 
 export default {
