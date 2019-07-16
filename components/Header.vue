@@ -79,7 +79,7 @@
                 href="javascript:void(0);"
                 style="font-size:15px;"
                 class="icon"
-                onclick="myFunction()"
+                @click="myFunction()"
             >☰</a>
         </div>
     </div>
@@ -97,7 +97,15 @@
         methods: {
             ...mapActions({
                 fetchListCategory: "fetchListCategory"
-            })
+            }),
+            myFunction() {
+                var x = document.getElementById("myTopnav");
+                if (x.className === "topnav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "topnav";
+                }
+            }
         },
         mounted() {
             this.fetchListCategory();
