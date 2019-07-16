@@ -25,12 +25,9 @@
                 <article class="item-small col-12 pl-0 pr-0">
                     <div class="item-list">
                         <div class="post-thumbnail thumb-small">
-                            <a
-                                href="https://truyenaz.net/truyen/9240/he-thong-van-nang"
-                                title="Hệ Thống Vạn Năng"
-                            >
+                            <a href title="Hệ Thống Vạn Năng">
                                 <img
-                                    src="//truyenaz.net/sources/covers/he-thong-van-nang_9240_fullsize.jpg"
+                                    src="http://52.163.230.242/storage/image/yeu-em-tu-cai-nhin-dau-tien_12_fullsize.jpg"
                                     class="attachment-post-thumbnail size-post-thumbnail"
                                     alt="Hệ Thống Vạn Năng"
                                 />
@@ -38,10 +35,7 @@
                         </div>
                         <div class="post-info">
                             <div class="entry-title">
-                                <a
-                                    href="/truyen/9240/he-thong-van-nang"
-                                    title="Hệ Thống Vạn Năng"
-                                >Hệ Thống Vạn Năng</a>
+                                <a href title="Hệ Thống Vạn Năng">Hệ Thống Vạn Năng</a>
                             </div>
                             <div class="entry-meta">
                                 <span class="byline">
