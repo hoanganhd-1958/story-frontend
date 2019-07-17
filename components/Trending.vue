@@ -9,18 +9,15 @@
                     <div class="right-item-book">
                         <div class="image-book">
                             <img
-                                data-src="//truyenaz.net/sources/covers/anh-de-than-bi-trom-cuoi-vo-yeu-toi-pk_48_fullsize.jpg"
                                 style="max-width: 100%;"
                                 class="lazy attachment-img-cover loaded"
                                 alt
-                                src="//truyenaz.net/sources/covers/anh-de-than-bi-trom-cuoi-vo-yeu-toi-pk_48_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/yeu-em-tu-cai-nhin-dau-tien_12_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </div>
                         <div class="info-book">
-                            <a
-                                href="https://truyenaz.net/truyen/48/anh-de-than-bi-trom-cuoi-vo-yeu-toi-pk"
-                            >Ảnh Đế Thần Bí Trộm Cưới: Vợ Yêu, Tới Pk</a>
+                            <a href>Ảnh Đế Thần Bí Trộm Cưới: Vợ Yêu, Tới Pk</a>
                             <br />
                             <span class="list-top-movie-item-view small text-primary">Lượt xem: 900</span>
                             <span class="rate-vote rate-vote-8 small"></span>

@@ -2,40 +2,51 @@
     <div>
         <h3 class="header-title">
             Truyện được đề cử
-            <i class="fa fa-gift" aria-hidden="true"></i> (đang xây dựng)
+            <i class="fa fa-gift" aria-hidden="true"></i>
         </h3>
         <div class="row list-recommend-book">
             <div class="col col-md-4 col-sm-6 col-6">
                 <div class="recommed-book">
                     <div class="book-img">
-                        <a
-                            href="https://truyenaz.net/truyen/58/mao-son-troc-quy-nhan"
-                            target="_blank"
-                        >
+                        <a href="story/7">
                             <img
                                 class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/mao-son-troc-quy-nhan_58_fullsize.jpg"
-                                alt="Mao Sơn Tróc Quỷ Nhân"
-                                src="//truyenaz.net/sources/covers/mao-son-troc-quy-nhan_58_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/tam-quoc-dien-nghia_73_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </a>
                     </div>
                     <div class="book-info">
                         <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/58/mao-son-troc-quy-nhan"
-                                title="Mao Sơn Tróc Quỷ Nhân"
-                            >
-                                <strong>Mao Sơn Tróc Quỷ Nhân</strong>
+                            <a href="/story/7">
+                                <strong>Tam Quốc Diễn Nghĩa</strong>
+                            </a>
+                        </h4>
+                        <p>Phàm thế cuộc trong thiên hạ (1), chia rồi lại hợp, hợp rồi lại chia. Tỷ như nhà Châu mất vận, bảy nước phân tranh, sau đó nhà Tần lại gồm thâu về một mối. Rồi khi nhà Tần bị diệt vong, để cho Hán, Sở...</p>
+                        <div class="state-box cf"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col col-md-4 col-sm-6 col-6">
+                <div class="recommed-book">
+                    <div class="book-img">
+                        <a href="/story/11">
+                            <img
+                                class="lazy initial loaded"
+                                src="http://52.163.230.242/storage/image/su-im-lang-cua-bay-cuu_65_fullsize.jpg"
+                                data-was-processed="true"
+                            />
+                        </a>
+                    </div>
+                    <div class="book-info">
+                        <h4>
+                            <a href="/story/11">
+                                <strong>Sự Im Lặng Của Bầy Cừu</strong>
                             </a>
                         </h4>
                         <p>
-                            Tác phẩm này chưa có lời giới thiệu!
-                            <br />
-                            <a href="/contribute-db?aid=58">
-                                <button type="button" class="btn btn-primary btn-sm">Đóng góp</button>
-                            </a>
+                            Tên tiếng anh là : The Silence of the Lambs của tác giả Thomas Harris
+                            Truyện sự im lặng của bầy cừu kể về vụ án giết người hàng loạt xảy ra nhưng không để lại dấu vết. Điều kỳ lạ là Lecter - một b...
                         </p>
                         <div class="state-box cf"></div>
                     </div>
@@ -44,34 +55,23 @@
             <div class="col col-md-4 col-sm-6 col-6">
                 <div class="recommed-book">
                     <div class="book-img">
-                        <a
-                            href="https://truyenaz.net/truyen/67/tam-sinh-tam-the-thap-ly-dao-hoa"
-                            target="_blank"
-                        >
+                        <a href="/story/1">
                             <img
                                 class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/tam-sinh-tam-the-thap-ly-dao-hoa_67_fullsize.jpg"
-                                alt="Tam Sinh Tam Thế - Thập Lý Đào Hoa"
-                                src="//truyenaz.net/sources/covers/tam-sinh-tam-the-thap-ly-dao-hoa_67_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/dau-pha-thuong-khung_87_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </a>
                     </div>
                     <div class="book-info">
                         <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/67/tam-sinh-tam-the-thap-ly-dao-hoa"
-                                title="Tam Sinh Tam Thế - Thập Lý Đào Hoa"
-                            >
-                                <strong>Tam Sinh Tam Thế - Thập Lý Đào Hoa</strong>
+                            <a href="/story/1">
+                                <strong>Đấu Phá Thương Khung</strong>
                             </a>
                         </h4>
                         <p>
-                            Tác phẩm này chưa có lời giới thiệu!
-                            <br />
-                            <a href="/contribute-db?aid=67">
-                                <button type="button" class="btn btn-primary btn-sm">Đóng góp</button>
-                            </a>
+                            Đây là một thế giới thuộc về Đấu Khí, không hề có ma pháp hoa tiếu diễm lệ, chỉ có đấu khí cương mãnh phồn thịnh !
+                            Tưởng tượng thế giới đó sẽ phát triển ra sao ? mời các bạn xem Đấu Phá Thương Khung...
                         </p>
                         <div class="state-box cf"></div>
                     </div>
@@ -80,26 +80,24 @@
             <div class="col col-md-4 col-sm-6 col-6">
                 <div class="recommed-book">
                     <div class="book-img">
-                        <a href="https://truyenaz.net/truyen/7/chi-co-the-la-yeu" target="_blank">
+                        <a href="/story/5">
                             <img
                                 class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/chi-co-the-la-yeu_7_fullsize.jpg"
-                                alt="Chỉ có thể là yêu"
-                                src="//truyenaz.net/sources/covers/chi-co-the-la-yeu_7_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/bo-cau-khong-dua-thu_76_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </a>
                     </div>
                     <div class="book-info">
                         <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/7/chi-co-the-la-yeu"
-                                title="Chỉ có thể là yêu"
-                            >
-                                <strong>Chỉ có thể là yêu</strong>
+                            <a href="/story/5" title="Yêu Em Từ Cái Nhìn Đầu Tiên">
+                                <strong>Bồ Câu Không Đưa Thư</strong>
                             </a>
                         </h4>
-                        <p>Nam Phong - một anh chàng lớn lên giữa nhung lụa giàu sang, giữa những cạnh tranh khốc liệt của thế giới quyền lực, giữa những cám dỗ của muôn...</p>
+                        <p>
+                            Thục săm soi tờ giấy trên tay. Nó phân vân lật tới lật lui, chưa biết tính thế nào.
+                            Chiều hôm qua, lúc thò tay vào ngăn bàn, nó tình cờ phát hiện ra tờ giấy này. Trong đó chỉ vẻn vẹn có mấy dòng, đ...
+                        </p>
                         <div class="state-box cf"></div>
                     </div>
                 </div>
@@ -107,29 +105,21 @@
             <div class="col col-md-4 col-sm-6 col-6">
                 <div class="recommed-book">
                     <div class="book-img">
-                        <a
-                            href="https://truyenaz.net/truyen/12/yeu-em-tu-cai-nhin-dau-tien"
-                            target="_blank"
-                        >
+                        <a href="/story/17">
                             <img
                                 class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/yeu-em-tu-cai-nhin-dau-tien_12_fullsize.jpg"
-                                alt="Yêu Em Từ Cái Nhìn Đầu Tiên"
-                                src="//truyenaz.net/sources/covers/yeu-em-tu-cai-nhin-dau-tien_12_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/cu-lanh-lung-di-roi-anh-se-mat-em_55_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </a>
                     </div>
                     <div class="book-info">
                         <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/12/yeu-em-tu-cai-nhin-dau-tien"
-                                title="Yêu Em Từ Cái Nhìn Đầu Tiên"
-                            >
-                                <strong>Yêu Em Từ Cái Nhìn Đầu Tiên</strong>
+                            <a href="/story/17">
+                                <strong>Cứ Lạnh Lùng Đi Rồi Anh Sẽ Mất Em</strong>
                             </a>
                         </h4>
-                        <p>Câu truyện về mối tình đẹp giữa hai nhân vật chính là hai sinh viên ngành công nghệ thông tin. Đã đến với nhau từ những nhân vật game, họ đã...</p>
+                        <p>Truyện xoay quanh những cô cậu bé, những mối tình, những xúc cảm mới nảy nở, những yêu thương còn vụng dại. Truyện vẫn lấy chủ đề tình yêu, tình bạn hay những mối quan hệ xã hội làm nền, nhưng lại trở...</p>
                         <div class="state-box cf"></div>
                     </div>
                 </div>
@@ -137,55 +127,17 @@
             <div class="col col-md-4 col-sm-6 col-6">
                 <div class="recommed-book">
                     <div class="book-img">
-                        <a
-                            href="https://truyenaz.net/truyen/21/ma-thoi-den-tap-3-trung-coc-van-nam"
-                            target="_blank"
-                        >
+                        <a href="/story/38">
                             <img
                                 class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/ma-thoi-den-tap-3-trung-coc-van-nam_21_fullsize.jpg"
-                                alt="Ma thổi đèn - Tập 3 - Trùng Cốc Vân Nam"
-                                src="//truyenaz.net/sources/covers/ma-thoi-den-tap-3-trung-coc-van-nam_21_fullsize.jpg"
+                                src="http://52.163.230.242/storage/image/hoang-phi-so-dac-cong-so-11-so-kieu-truyen_29_fullsize.jpg"
                                 data-was-processed="true"
                             />
                         </a>
                     </div>
                     <div class="book-info">
                         <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/21/ma-thoi-den-tap-3-trung-coc-van-nam"
-                                title="Ma thổi đèn - Tập 3 - Trùng Cốc Vân Nam"
-                            >
-                                <strong>Ma thổi đèn - Tập 3 - Trùng Cốc Vân Nam</strong>
-                            </a>
-                        </h4>
-                        <p>Sau khi về Bắc Kinh, chúng tôi tập trung ở hiệu ăn lâu đời Mỹ Vị Trai Bắc Kinh và tổ chức đại hội đại biểu lần thứ hai thành công tốt đẹp....</p>
-                        <div class="state-box cf"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col col-md-4 col-sm-6 col-6">
-                <div class="recommed-book">
-                    <div class="book-img">
-                        <a
-                            href="https://truyenaz.net/truyen/29/hoang-phi-so-dac-cong-so-11-so-kieu-truyen"
-                            target="_blank"
-                        >
-                            <img
-                                class="lazy initial loaded"
-                                data-src="//truyenaz.net/sources/covers/hoang-phi-so-dac-cong-so-11-so-kieu-truyen_29_fullsize.jpg"
-                                alt="Hoàng phi sở đặc công số 11 (Sở Kiều truyện)"
-                                src="//truyenaz.net/sources/covers/hoang-phi-so-dac-cong-so-11-so-kieu-truyen_29_fullsize.jpg"
-                                data-was-processed="true"
-                            />
-                        </a>
-                    </div>
-                    <div class="book-info">
-                        <h4>
-                            <a
-                                href="https://truyenaz.net/truyen/29/hoang-phi-so-dac-cong-so-11-so-kieu-truyen"
-                                title="Hoàng phi sở đặc công số 11 (Sở Kiều truyện)"
-                            >
+                            <a href="/story/38">
                                 <strong>Hoàng phi sở đặc công số 11 (Sở Kiều truyện)</strong>
                             </a>
                         </h4>
